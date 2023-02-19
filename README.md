@@ -8,18 +8,6 @@ Build a custom HTML5 video player with JavaScript. Features:
 - Custom controls
 - Keyboard shortcuts
 
-Tutorial: https://freshman.tech/custom-html5-video/
-
-## Live demo
-
-This project is live at http://custom-html5-video.surge.sh/
-
-## Prerequisites
-
-You must have Node.js and npm installed on your machine. This project was built against the following versions:
-
-- Node v12.6.0
-- npm v6.9.0
 
 ## Setup
 
